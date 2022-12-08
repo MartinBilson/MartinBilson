@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MartinBilson
-- 👀 I’m interested in web development and block chain technology
-- 🌱 I’m currently learning advanced level in blockchain and Elixir programming language.
-- 💞️ I’m looking to collaborate with web and block chain developers and other developers in real world projects to offer solutions. 
-- 📫 How to reach me via phone number,(+254748141200), facebook (Martin Githae), Twitter (martin bilson).
+- 👀 I’m interested in software development and block chain technology
+- 🌱 I’m currently learning Elixir...
+- 💞️ I’m looking to collaborate...... 
+- 📫 How to reach me.....
 
 <!---
 MartinBilson/MartinBilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
