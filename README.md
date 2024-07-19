@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinBilson
 - 👀 I’m interested in software development and block chain technology
-- 🌱 I’m currently learning Elixir/phoenix.  backend Dev...
+- 🌱 I’m currently learning Blockchain technology.  fullstack (python, Django, Solidarity, Dart, JavaScript).y..
 - 💞️ I’m looking to collaborate and innovate more...... 
 - 📫 How to reach me...(+254748263148)..
 
