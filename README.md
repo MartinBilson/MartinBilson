@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MartinBilson
-- 👀 I’m interested in software development and block chain technology
-- 🌱 I’m currently learning Blockchain technology.  fullstack (python, Django, Solidarity, Dart, JavaScript).y..
+- 👋 Hello, I’m Martin Githae, @MartinBilson
+- 👀 I’m into software development, block chain technology, Odoo Technical Developer and Data Analysis.
+- 🌱 Currently diving more into Blockchain technology.  fullstack (python, Django, Solidarity, Dart, JavaScript).
 - 💞️ I’m looking to collaborate and innovate more...... 
-- 📫 How to reach me...(+254748263148)..
+- 📫 How to reach me...(+254748263148/ +254748141200)..
 
 <!---
 MartinBilson/MartinBilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
