@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Martin Githae, @MartinBilson
 - 👀 I’m into software developer, block chain technology, Odoo Technical Developer and Data Analysts.
-- 🌱 Currently diving more into Blockchain technology.  fullStack (python, Django, Solidarity, Dart, Solana, JavaScript).
+- 🌱 Currently diving more into Data and Blockchain technology.  fullStack (python, Django, Solidarity, Dart, Solana, JavaScript).
 - 💞️ I’m looking to collaborate and innovate more...... 
 - 📫 How to reach me...(+254748263148/ +254748141200)..
 
