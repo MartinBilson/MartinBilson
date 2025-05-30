@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Odoo ERP customizations** and **real-time data dashboards**
-- 🌱 Learning **React.js** and advanced analytics
-- 💬 Ask me about **Python, PostgreSQL, Odoo, or FastAPI**
-- 🏢 Consultant at **GS1 Kenya, Track Edge, Cheza Health**
+- 🔭 Currently working on **Odoo ERP customizations** and **Backend Development**
+- 🌱 Advancing **Python** and **Elixir Phoenix**
+- 💬 Ask me about **Python, Elixir, Odoo, or FastAPIs**
+- 🏢 Previously worked at **GS1 Kenya, Wanaag Solutions.** currently contracting **Track Edge Technologies**
 - 🧠 Enhanced data quality by **167%** through structured improvements
 - 📈 Always building things that matter!
 
