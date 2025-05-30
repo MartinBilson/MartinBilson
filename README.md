@@ -14,7 +14,9 @@
 - 💬 Ask me about **Python, Elixir, Odoo, or FastAPIs**
 - 🏢 Previously worked at **GS1 Kenya, Wanaag Solutions.** currently contracting **Track Edge Technologies**
 - 🧠 Enhanced data quality by **167%** through structured improvements
-- 📈 Always building things that matter!
+- 💬 Ask me about Block-chain and Odoo - very futuristic.
+
+
 
 ---
 
