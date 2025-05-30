@@ -5,10 +5,6 @@
 <h3 align="center">🚀 Junior Software Developer | 📊 Data Analyst | 🧩 Odoo Expert | 🧩 AI Enthusiasts</h3>
 <h4 align="center">Nairobi, Kenya 🇰🇪</h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC2&center=true&vCenter=true&multiline=true&width=500&height=80&lines=🔍+Turning+data+into+insights...;🧠+Automating+business+with+Odoo;🛠️+Building+the+web+with+Python+%26+JavaScript!" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
