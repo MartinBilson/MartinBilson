@@ -30,13 +30,19 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" 
+    alt="GitHub Stats" 
+    style="max-width: 48%; margin-right: 1%;" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=martinbilson&theme=tokyonight&border_radius=10&hide_border=false" 
+    alt="GitHub Streak Stats" 
+    style="max-width: 48%; margin-left: 1%;" 
+  />
+</div>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinbilson&theme=tokyonight&border_radius=10&hide_border=false" />
-</p>
 ---
 
 ### 📫 Connect with Me
