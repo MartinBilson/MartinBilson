@@ -30,18 +30,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinbilson&theme=tokyonight&border_radius=10&hide_border=false" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbilson&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
