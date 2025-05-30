@@ -30,18 +30,22 @@
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" 
-    alt="GitHub Stats" 
-    style="flex: 1 1 300px; max-width: 48%; margin: 1%;" 
+    alt="GitHub Stats"
+    style="width: 100%; max-width: 400px;"
   />
+
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=martinbilson&theme=tokyonight&border_radius=10&hide_border=false" 
-    alt="GitHub Streak Stats" 
-    style="flex: 1 1 300px; max-width: 48%; margin: 1%;" 
+    alt="GitHub Streak Stats"
+    style="width: 100%; max-width: 400px;"
   />
+
 </div>
+
 
 
 ---
