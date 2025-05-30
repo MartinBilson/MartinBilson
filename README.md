@@ -30,21 +30,19 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" 
-    alt="GitHub Stats"
-    style="width: 100%; max-width: 400px;"
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=martinbilson&theme=tokyonight&border_radius=10&hide_border=false" 
-    alt="GitHub Streak Stats"
-    style="width: 100%; max-width: 400px;"
-  />
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinbilson&theme=tokyonight&border_radius=10&hide_border=false" width="400"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
