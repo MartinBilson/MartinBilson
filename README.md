@@ -9,12 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Odoo ERP customizations** and **Backend Development**
-- 🌱 Advancing **Python** and **Elixir Phoenix**
-- 💬 Ask me about **Python, Elixir, Odoo, or FastAPIs**
+- 🔭 Currently working on **Reactjs** and **Nodejs**
+- 🌱 Advancing **Python** and **Odoo Development and customization**
+- 💬 Ask me about **FullStack{ React Nodejs},  Odoo module creation, implementation to deployment**
 - 🏢 Previously worked at **GS1 Kenya, Wanaag Solutions.** currently contracting **Track Edge Technologies**
-- 🧠 Enhanced data quality by **167%** through structured improvements
-- 💬 Ask me about Block-chain and Odoo - very futuristic.
+- 💬 When I'm not crushing bugs or building dreams, I can be found in science movies, football or having cold drinks with peers;.
 
 
 
