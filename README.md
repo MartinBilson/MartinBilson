@@ -13,9 +13,9 @@
 - 🌱 Advancing **Python** and **Odoo Development and customization**
 - 💬 Ask me about **FullStack{ React Nodejs},  Odoo module creation, implementation to deployment**
 - 🏢 Previously worked at **GS1 Kenya, Wanaag Solutions.** currently contracting **Track Edge Technologies**
-- 💬 When I'm not crushing bugs or building dreams, I can be found in science movies, football or having cold drinks with peers;.
-
-
+- 💬 When I'm not crushing bugs or building dreams, I can be found in science movies, football or having charts with peers;
+- 👯 I’m looking to collaborate on Odoo projects | ReactNodejs projects,
+  
 
 ---
 
