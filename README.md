@@ -33,10 +33,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=martinbilson&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=1800" width="400"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinbilson&theme=tokyonight&border_radius=10&hide_border=false" width="400"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=martinbilson&theme=tokyonight&border_radius=10&date_format=M%20j%5B,%20Y%5D&hide_border=false" width="400"/>
       </td>
     </tr>
   </table>
